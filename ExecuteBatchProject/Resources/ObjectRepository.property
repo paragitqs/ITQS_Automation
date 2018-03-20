@@ -1,0 +1,5 @@
+#HomeSearchBox=id:twotabsearchtextbox
+HomeSearchBox=xpath:.//*[@id='twotabsearchtextbox']
+HomeSearchButton=xpath:.//*[@id='nav-search']/form/div[2]/div/input
+LeftNavigationContainer=xpath:.//*[@id='leftNavContainer']
+checkboxes=xpath:.//input[@type='checkbox']

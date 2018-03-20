@@ -1,0 +1,8 @@
+BrowserDetails=chrome
+#BrowserDetails=ie
+#BrowserDetails=firefox
+URL=https://www.amazon.com/
+GeckoDriverPath=.\\libs\\geckodriver.exe
+ieDriverPath=.\\libs\\IEDriverServer.exe
+chromeDriverPath=.\\libs\\chromedriver.exe
+fireFoxDriverPath=.\\libs\\geckodriver.exe
